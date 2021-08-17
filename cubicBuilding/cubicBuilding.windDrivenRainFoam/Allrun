@@ -23,7 +23,7 @@ echo "Running changeDictionary app..."
 changeDictionary > log.changeDictionary
 
 #-- Run on single processor
-#runApplication `getApplication`
+runApplication `getApplication`
 
 ## Run in parallel
 ## Decompose
