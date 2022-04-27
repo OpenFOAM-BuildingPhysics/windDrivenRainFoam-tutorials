@@ -19,7 +19,7 @@ solveTD		no;
 
 scalingFactor 0.5;
 
-temp   temp [0 0 0 1 0 0 0] 285.85;
+temp 285.85;
 
 Rh // list of rainfall intensities [mm/h], for which gcr will be written
 (

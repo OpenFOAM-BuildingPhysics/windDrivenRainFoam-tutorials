@@ -40,7 +40,7 @@ boundaryField
     }
     ground
     {
-        type            nutkAtmRoughWallFunction;
+        type            atmNutkWallFunction;
         z0              $z0;
         value           uniform 0.0;
     }
