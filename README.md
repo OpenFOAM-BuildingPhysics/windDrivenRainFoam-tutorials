@@ -13,7 +13,7 @@ The solver is tested for the following OpenFOAM versions:
 
 Tutorial case solves for the WDR exposure of an isolated cubic building.
 
-<img src="https://gitlab.ethz.ch/openfoam-cbp/tutorials/winddrivenrainfoam/-/wikis/uploads/ac33fcde0259b74e9df70251444579de/cube.png"  width="60%">
+<img src="https://gitlab.ethz.ch/openfoam-cbp/solvers/winddrivenrainfoam/-/wikis/img/tutorial_cube.png"  width="60%">
 <br><i>  Catch ratio [-] distribution on the building surfaces and the 
 surroundings at a rainfall intensity of 1 mm/h and a reference wind speed of 5 m/s. </i>
 
