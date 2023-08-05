@@ -78,7 +78,7 @@ solvers
         preconditioner  DILU;
         tolerance       1e-06;
 //        relTol          0.1;
-	relTol          0.001;
+    relTol          0.001;
     }
 
     nuTilda
@@ -87,7 +87,7 @@ solvers
         preconditioner  DILU;
         tolerance       1e-06;
 //        relTol          0.1;
-	relTol          0.001;
+    relTol          0.001;
     }
 }
 
@@ -105,7 +105,7 @@ SIMPLE
 
 potentialFlow
 {
-	nNonOrthogonalCorrectors 3;
+    nNonOrthogonalCorrectors 3;
 }
 
 relaxationFactors

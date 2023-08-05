@@ -20,7 +20,7 @@ internalField   uniform (3 0 0);
 
 boundaryField
 {
-	
+    
     top
     {
         type            slip;
@@ -34,7 +34,7 @@ boundaryField
 
     outlet 
     {
-		type			zeroGradient;
+        type            zeroGradient;
     }
     ground      
     {
@@ -48,7 +48,7 @@ boundaryField
     }
     sides
     {
-		type			slip;
+        type            slip;
     }
 }
 

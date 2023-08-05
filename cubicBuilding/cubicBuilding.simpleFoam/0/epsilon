@@ -47,7 +47,7 @@ boundaryField
     }
     sides
     {
-		type			slip;
+        type            slip;
     }
 }
 

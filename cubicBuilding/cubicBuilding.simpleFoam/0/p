@@ -26,12 +26,12 @@ boundaryField
     }
     inlet
     {
-		type			zeroGradient;
+        type            zeroGradient;
     }
     outlet
     {
         type            fixedValue;
-        value      		$internalField;
+        value           $internalField;
     }
 
     ground      
@@ -44,7 +44,7 @@ boundaryField
     }
     sides
     {
-		type			slip;
+        type            slip;
     }
 }
 
