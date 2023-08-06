@@ -212,7 +212,7 @@ boundary
 
     top
     {
-        type slip;
+        type patch;
         faces
         (
             (15 16 36 35)
@@ -256,7 +256,7 @@ boundary
 
     sides
     {
-        type slip;
+        type patch;
         faces
         (
             (0 1 6 5)

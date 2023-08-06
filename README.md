@@ -6,8 +6,8 @@ Source code for the solver code can be downloaded from [here](https://gitlab.eth
 
 The solver is tested for the following OpenFOAM versions:
 
-* OpenFOAM-org (OpenFOAM Foundation) v6, v7, v8, v9 
-* OpenFOAM-com (OpenCFD-ESI) v1806
+* OpenFOAM-org (OpenFOAM Foundation) v6, v7, v8, v9, v10, v11
+* OpenFOAM-com (OpenCFD-ESI) v1806, v2006, v2106
 
 ### Tutorial case
 
@@ -21,8 +21,9 @@ surroundings at a rainfall intensity of 1 mm/h and a reference wind speed of 5 m
 
 You can use the tutorial for a specific OpenFOAM version by checking out the commit with corresponding tag. For example, for OpenFOAM v9:
 
-	git clone https://gitlab.ethz.ch/openfoam-cbp/tutorials/winddrivenrainfoam.git winddrivenrainfoam-tutorial
-	cd winddrivenrainfoam-tutorial
-	git checkout tags/of-org_v9.0
+    git clone https://gitlab.ethz.ch/openfoam-cbp/tutorials/winddrivenrainfoam.git winddrivenrainfoam-tutorial
+    cd winddrivenrainfoam-tutorial
+    git checkout tags/of-org_v9.0
 
+See the list of tags for different versions [here](https://gitlab.ethz.ch/openfoam-cbp/tutorials/winddrivenrainfoam/-/tags)
 

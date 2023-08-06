@@ -18,20 +18,12 @@ boundary
 {
     inlet
     {
-        type            mappedPatch;
-        sampleMode      nearestCell;
-        sampleRegion    region0;
-        samplePatch     none;
-        offsetMode      uniform;
+        type            mappedInternal;
         offset          (1 0 0);
     }
     top
     {
-        type            mappedPatch;
-        sampleMode      nearestCell;
-        sampleRegion    region0;
-        samplePatch     none;
-        offsetMode      uniform;
+        type            mappedInternal;
         offset          (0 -1 0);   
     }
 }
