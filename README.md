@@ -2,7 +2,7 @@
 
 An open-source solver for wind-driven rain based on OpenFOAM
 
-Source code for the solver code can be downloaded from [here](https://gitlab.ethz.ch/openfoam-cbp/solvers/winddrivenrainfoam)
+Source code for the solver code can be downloaded from [here](https://github.com/OpenFOAM-BuildingPhysics/windDrivenRainFoam)
 
 The solver is tested for the following OpenFOAM versions:
 
@@ -25,5 +25,5 @@ You can use the tutorial for a specific OpenFOAM version by checking out the com
     cd winddrivenrainfoam-tutorial
     git checkout tags/of-org_v9.0
 
-See the list of tags for different versions [here](https://gitlab.ethz.ch/openfoam-cbp/tutorials/winddrivenrainfoam/-/tags)
+See the list of tags for different versions [here](https://github.com/OpenFOAM-BuildingPhysics/windDrivenRainFoam-tutorials/tags)
 
