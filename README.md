@@ -21,7 +21,7 @@ surroundings at a rainfall intensity of 1 mm/h and a reference wind speed of 5 m
 
 You can use the tutorial for a specific OpenFOAM version by checking out the commit with corresponding tag. For example, for OpenFOAM v9:
 
-    git clone https://gitlab.ethz.ch/openfoam-cbp/tutorials/winddrivenrainfoam.git winddrivenrainfoam-tutorial
+    git clone https://github.com/OpenFOAM-BuildingPhysics/windDrivenRainFoam-tutorials.git
     cd winddrivenrainfoam-tutorial
     git checkout tags/of-org_v9.0
 
