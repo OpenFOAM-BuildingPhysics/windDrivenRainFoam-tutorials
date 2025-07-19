@@ -20,7 +20,7 @@ internalField   uniform (3 0 0);
 
 boundaryField
 {
-    
+
     top
     {
         type            slip;
@@ -32,16 +32,16 @@ boundaryField
         #include        "include/ABLConditions"
     }
 
-    outlet 
+    outlet
     {
         type            zeroGradient;
     }
-    ground      
+    ground
     {
         type            fixedValue;
         value           uniform (0 0 0);
     }
-    cube      
+    cube
     {
         type            fixedValue;
         value           uniform (0 0 0);
